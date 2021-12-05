@@ -1,0 +1,30 @@
+{Jes£s Rivas}
+program fibonacci;
+uses crt;
+var A,B,C,D,E:longint;
+begin
+textbackground(blue);
+clrscr;
+Textcolor(White);
+writeln('Introduzca el N£mero de Meses');
+Writeln('Pulse una Letra Para Salir');
+Writeln;
+readln(E);
+Textcolor(yellow);
+writeln;
+writeln('1');
+writeln('1');
+if E = 1 then
+if E = 2 then
+begin
+end;
+B:=1; D:=1;
+for C:= 1 to (E-2) do
+begin
+A:= B + D;
+B:= D;
+D:= A;
+writeln(A);
+end;
+repeat until keypressed;
+end.

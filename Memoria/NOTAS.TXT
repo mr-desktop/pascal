@@ -1,0 +1,5 @@
+Nota:
+Este juego fue escrito originalmente por el grupo "Dark Cloud", pero se le
+ha modificado el funcionamiento de la unidad "Utils" en la parte del
+procedimiento "Wait" que fue adaptado para funcionar en PC con procesadores
+Pentium II o superiores; el resto permanece intacto.
